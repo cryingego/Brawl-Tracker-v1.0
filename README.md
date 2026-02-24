@@ -41,8 +41,9 @@ The "Delete" button selects a profile tag from the list of tracked objects, whic
 
 *All of this is supported by a user-friendly and eye-pleasing design*
 
-#HOW TO LAUNCH A BOT?
+# HOW TO LAUNCH A BOT?
 **You'll only need a few steps:**
+
 1. Create a new project and upload two files: "main.py" and "database.py"
 2. First, create a bot in Telegram using @BotFather. Then, we'll provide our bot's token, which we'll paste into the code instead of "PUT UR BOT TOKEN HERE" (file main.py).
 3. Next, register on the [Brawl Stars API](https://developer.brawlstars.com/#/), create a key in your account, record all your data, copy the key we issued, and replace it with the code "BSAPI TOKEN" (file main.py).
@@ -50,7 +51,7 @@ The "Delete" button selects a profile tag from the list of tracked objects, whic
 5. Run the bot via the terminal: (`python main.py`)
 6. Type /start in the bot and run it. The bot will run until you close the terminal.
 
-#IMPORTANT!
+# IMPORTANT!
 When using the bot simultaneously by multiple users, errors may occur using the specific protocol; for example, the bot is calculated based on a single use.
 
 *use<3*
